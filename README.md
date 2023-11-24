@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://avatars.githubusercontent.com/u/3946147?v=4" width="100"/>
+  <a href="https://nezamy.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/3946147?v=4" width="100"/></a>
   <h1><a href="https://nezamy.com" target="_blank">Hello I'm Mahmoud Elnezamy</a></h1>
 </div>
 
