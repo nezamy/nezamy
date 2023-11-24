@@ -7,9 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nezamy-blue)](https://www.linkedin.com/in/nezamy/)
 [![GitHub](https://img.shields.io/badge/GitHub-nezamy-black)](https://github.com/nezamy)
-[![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fnezamy.com-lightgrey)](https://nezamy.com)
+[![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fnezamy.com-7cd3fc)](https://nezamy.com)
 [![Email](https://img.shields.io/badge/Email-mahmoud%40nezamy.com-red)](mailto:mahmoud@nezamy.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B20%2010110%2031461-brightgreen)](tel:+201011031461)
 
 ---
 
@@ -21,13 +20,13 @@ Experienced and results-driven Senior Full Stack Engineer with a strong backgrou
 
 ### Senior Full Stack Engineer - Forus Invest (March 2023 - Present)
 
-- Spearheading the development of the backoffice platform and Investors/Borrowers dashboard, driving operational efficiency and enhancing user experience.
+- Spearheading the development of the back-office platform and Investors/Borrowers dashboard, driving operational efficiency and enhancing user experience.
 - Refactoring legacy codebase and optimizing performance, resulting in a 40% improvement in application response time.
 - Utilizing React, Next.js, and Chakra UI to build intuitive and visually appealing UI components for the Forus platform.
 - Architecting and implementing a robust notifications system, supporting real-time push notifications as well as SMS and email templates.
 - Collaborating closely with cross-functional teams to gather requirements, design scalable solutions, and ensure seamless integration of new features.
 - Conducting code reviews and providing technical guidance to junior developers, fostering a culture of code quality and best practices.
-- Keeping up-to-date with the latest industry trends and technologies, actively contributing to architectural decisions and driving innovation within the organization.
+- Keeping up-to-date with the latest industry trends and technologies, actively contributing to architectural decisions, and driving innovation within the organization.
 
 
 ### Senior Full Stack Engineer - Botter (May 2022 - Present)
