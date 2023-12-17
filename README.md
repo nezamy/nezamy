@@ -18,24 +18,25 @@ Experienced and results-driven Senior Full Stack Engineer with a strong backgrou
 
 ## Professional Experience
 
-### Senior Full Stack Engineer - Forus Invest (March 2023 - Present)
+### Senior Full Stack Engineer - [Forus Invest](https://app.forusinvest.com) (March 2023 - December 2023)
 
 - Spearheading the development of the back-office platform and Investors/Borrowers dashboard, driving operational efficiency and enhancing user experience.
 - Refactoring legacy codebase and optimizing performance, resulting in a 40% improvement in application response time.
 - Utilizing React, Next.js, and Chakra UI to build intuitive and visually appealing UI components for the Forus platform.
-- Architecting and implementing a robust notifications system, supporting real-time push notifications as well as SMS and email templates.
+- Architecting and implementing a robust notifications system, supporting real-time push notifications, SMS, and email templates.
 - Collaborating closely with cross-functional teams to gather requirements, design scalable solutions, and ensure seamless integration of new features.
 - Conducting code reviews and providing technical guidance to junior developers, fostering a culture of code quality and best practices.
 - Keeping up-to-date with the latest industry trends and technologies, actively contributing to architectural decisions, and driving innovation within the organization.
 
 
-### Senior Full Stack Engineer - Botter (May 2022 - Present)
+### Senior Full Stack Engineer - [Botter](https://botter.ai) (May 2022 - Present)
 
 - Spearheading the integration of chatbot functionality with webRTC video/audio calls, enhancing user experience and customer engagement.
 - Refactoring legacy codebase and optimizing performance, resulting in a 30% improvement in application response time.
 - Driving the development of a scalable car platform, facilitating seamless car sales and insurance transactions.
 - Utilizing the Vuetify framework, developing modern and intuitive user interfaces for websites.
 - Conducting regular code reviews and providing constructive feedback to ensure code quality and maintainability.
+- Architected and developed a comprehensive website's frontend and backend (Auto Store, Motory, [GAC Motor](https://gacmotoreg.com).
 
 ### Senior Full Stack & Team Lead - Wow-ws (March 2021 - May 2022)
 
@@ -52,7 +53,7 @@ Experienced and results-driven Senior Full Stack Engineer with a strong backgrou
 - Salla.sa, Remotely: Served as a Senior Full Stack Developer, spearheading the design and development of a home page builder project using Vue.js and PHP. Empowered end-users to create customizable home pages, resulting in a 25% boost in user retention. [Video Demo](https://www.youtube.com/watch?v=taomnAnFmHM)
   
 
-### Senior Full-Stack Engineer - Instadiet.Me, New Cairo - Egypt (May 2018 - February 2020)
+### Senior Full-Stack Engineer - [Instadiet](https://instadiet.me), New Cairo - Egypt (May 2018 - February 2020)
 
 - Architected and developed a web and mobile app for Instadiet startup, facilitating seamless communication between patients and nutritionists.
 - Leveraged PHP, Vue.js, WebSockets, and RESTful APIs to deliver real-time and interactive features.
