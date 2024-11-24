@@ -3,13 +3,14 @@
   <h1><a href="https://nezamy.com" target="_blank">Hello I'm Mahmoud Elnezamy</a></h1>
 </div>
 
+
 ## Senior Full Stack Engineer | Software Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nezamy-blue)](https://www.linkedin.com/in/nezamy/)
 [![GitHub](https://img.shields.io/badge/GitHub-nezamy-black)](https://github.com/nezamy)
 [![Website](https://img.shields.io/badge/Website-https%3A%2F%2Fnezamy.com-7cd3fc)](https://nezamy.com)
 [![Email](https://img.shields.io/badge/Email-mahmoud%40nezamy.com-red)](mailto:mahmoud@nezamy.com)
-
+![](https://komarev.com/ghpvc/?username=nezamy&abbreviated=true)
 ---
 
 Experienced and results-driven Senior Full Stack Engineer with a strong background in software architecture and development. Passionate about creating innovative solutions and delivering high-quality code. Proficient in a wide range of technologies and frameworks. Strong leadership skills with a proven track record of leading and mentoring development teams.
